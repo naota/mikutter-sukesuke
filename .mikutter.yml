@@ -1,0 +1,9 @@
+---
+slug: :sukesuke
+depends:
+  mikutter: 3.0.6
+  plugin: []
+version: '1.0'
+author: naota344
+name: sukesuke
+description: mikutterちゃんがすけすけになっちゃいます (*゜∀゜)=3
